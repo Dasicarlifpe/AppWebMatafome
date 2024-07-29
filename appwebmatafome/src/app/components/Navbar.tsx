@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 import Image from "next/image"
 
+=======
+import Image from "next/image";
+>>>>>>> 41eee9592a06068b075e031a553c10ff318fecda
 
 export default function Navbar(){
     return (
